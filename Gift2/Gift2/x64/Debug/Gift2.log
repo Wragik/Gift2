@@ -1,0 +1,9 @@
+﻿  Gift2.cpp
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(177,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(180,26): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(183,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(186,29): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(189,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(192,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\wardik\Desktop\program\Gift2\Gift2\Gift2.cpp(196,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Gift2.vcxproj -> C:\Users\wardik\Desktop\program\Gift2\x64\Debug\Gift2.exe
